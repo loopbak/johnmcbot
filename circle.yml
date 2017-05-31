@@ -1,0 +1,3 @@
+test:
+  override:
+    - python ./bot_demo.py &
