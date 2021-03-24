@@ -24,7 +24,7 @@ python-daemon==1.5.2
 python-dateutil==2.1
 PyYAML==3.10
 requests==2.11.1
-rsa==3.4.1
+rsa==4.1
 simplejson==3.6.5
 six==1.8.0
 tinydb==3.2.1
