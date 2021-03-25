@@ -22,7 +22,7 @@ pycrypto==2.6.1
 pystache==0.5.3
 python-daemon==1.5.2
 python-dateutil==2.1
-PyYAML==3.10
+PyYAML==5.4
 requests==2.11.1
 rsa==3.4.1
 simplejson==3.6.5
