@@ -14,7 +14,7 @@ jsonpointer==1.0
 kitchen==1.1.1
 lockfile==0.8
 MarkupSafe==0.11
-paramiko==1.15.1
+paramiko==2.10.1
 pickleDB==0.6.2
 ply==3.4
 pyasn1==0.1.7
